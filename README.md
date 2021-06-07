@@ -2,7 +2,7 @@
 - 👀 I’m interested in building multimodal research(Audio, Video and Language) using Deeplearning techniques.
 - 🌱 I’m currently learning Deeplearning techniques to incorporate emotion in Audio and Images
 - 💞️ I’m looking to collaborate on Computer Vision and multimodal projects.
-- 📫 How to reach me saitejakosgi@gmail.com, 
+- 📫 How to reach me saitejakosgi@gmail.com, https://www.linkedin.com/in/saiteja-kosgi-b445b77b/
 
 <!---
 skosgi242/skosgi242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
